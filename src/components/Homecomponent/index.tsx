@@ -12,6 +12,7 @@ import FAQ from "../FAQ";
 import ContactUs from "../ContactUs";
 import HowItWorks from "../HowItWorks";
 import OurLocations from "../OurLocations";
+import CustomerGallery from "../CustomerGallery";
 
 export default function HomeComponent(): JSX.Element {
   return (
@@ -31,6 +32,7 @@ export default function HomeComponent(): JSX.Element {
 
       <FAQ />
 
+      <CustomerGallery />
       <ContactUs />
       <OurLocations />
     </main>

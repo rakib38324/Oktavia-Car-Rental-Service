@@ -1,3 +1,6 @@
+
+// logo
+export { default as logo } from "./navbar/logo.png";
 // cars
 export { default as axia_silver } from "./home/axia_silver.png";
 export { default as axia_gray } from "./home/axia_gray.png";
@@ -45,5 +48,9 @@ export { default as saga_flx_2 } from "./home/saga_2.jpg";
 export { default as saga_flx_3 } from "./home/saga_3.jpg";
 export { default as saga_flx_4 } from "./home/saga_4.jpg";
 
-// logo
-export { default as logo } from "./navbar/logo.png";
+
+// customer
+export {default as customer1 } from "./customer/1.jpg"
+export {default as customer2 } from "./customer/2.png"
+export {default as customer3 } from "./customer/3.png"
+export {default as customer4 } from "./customer/4.png"
